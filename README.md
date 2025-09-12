@@ -4,7 +4,7 @@ This project evolved from a simple text-based game into a statistical analysis t
 
 ## Key Features
 
-- **Simulation:** Engineered a simulation engine to play 10,000+ hands of Blackjack automatically.
+- **Monte Carlo simulation:** Engineered a simulation engine to play 10,000+ hands of Blackjack automatically.
 - **Basic Strategy:** Implemented the mathematically optimal Basic Strategy algorithm to make player decisions.
 - **Data Analysis:** Utilized **Matplotlib** to analyze outcomes and calculate the house edge.
 - **Visualization:** Created visualizations to demonstrate the probability of different game outcomes.
